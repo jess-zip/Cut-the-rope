@@ -1,0 +1,21 @@
+pe, pet, 100, 520, 25, 50
+
+ro, rope, 400, 300, 300, 400
+ro, rope2, 200, 400, 300, 500
+
+
+ca, candy, 300, 400, 25
+
+pi, pin, rope
+pi, pin2, rope2
+
+sp, spikes, 50, 150, 325, 40
+bu, bubble, 250, 550, 30
+
+ac, air_cushion, 350, 350, 2
+cr, rope, 0        
+cr, rope2, 1
+
+st, star, 110, 300, 15
+st, star2, 110, 400, 15
+st, star3, 250, 550, 15

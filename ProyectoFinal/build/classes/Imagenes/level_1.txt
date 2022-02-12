@@ -1,0 +1,15 @@
+
+pe, pet, 300, 520, 25, 50
+
+ro, rope, 300, 50, 300, 150
+
+ca, candy, 300, 200, 25
+
+pi, pin, rope
+
+cr, rope, 0        
+
+
+st, star, 320, 300, 15
+st, star2, 310, 380, 15
+st, star3, 315, 430, 15
